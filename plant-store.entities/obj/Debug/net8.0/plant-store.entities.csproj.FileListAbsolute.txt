@@ -1,0 +1,14 @@
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\bin\Debug\net8.0\plant-store.entities.deps.json
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\bin\Debug\net8.0\plant-store.entities.runtimeconfig.json
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\bin\Debug\net8.0\plant-store.entities.dll
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\bin\Debug\net8.0\plant-store.entities.pdb
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.csproj.AssemblyReference.cache
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.AssemblyInfoInputs.cache
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.AssemblyInfo.cs
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.csproj.CoreCompileInputs.cache
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.dll
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\refint\plant-store.entities.dll
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.pdb
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\plant-store.entities.genruntimeconfig.cache
+C:\Users\miked\minimal-api-plant-store\plant-store.entities\obj\Debug\net8.0\ref\plant-store.entities.dll
